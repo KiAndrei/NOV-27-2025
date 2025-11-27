@@ -1,0 +1,92 @@
+[
+    {
+        "id": 61,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hello",
+        "sent_at": "2025-11-25 05:29:26",
+        "is_seen": 0,
+        "archived_at": "2025-11-25 15:20:18"
+    },
+    {
+        "id": 62,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "sdf",
+        "sent_at": "2025-11-25 06:20:23",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:29:40"
+    },
+    {
+        "id": 63,
+        "conversation_id": 41,
+        "sender_id": 1,
+        "sender_type": "attorney",
+        "message": "asd",
+        "sent_at": "2025-11-25 06:23:58",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:29:40"
+    },
+    {
+        "id": 64,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hello ulit\r\n",
+        "sent_at": "2025-11-25 06:30:08",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:32:43"
+    },
+    {
+        "id": 65,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hello check ko lang",
+        "sent_at": "2025-11-25 06:46:14",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:47:03"
+    },
+    {
+        "id": 66,
+        "conversation_id": 41,
+        "sender_id": 1,
+        "sender_type": "attorney",
+        "message": "oke\r\n",
+        "sent_at": "2025-11-25 06:46:30",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:47:03"
+    },
+    {
+        "id": 67,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "wqeqw",
+        "sent_at": "2025-11-25 06:59:16",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:59:55"
+    },
+    {
+        "id": 68,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hahah",
+        "sent_at": "2025-11-25 20:18:36",
+        "is_seen": 0,
+        "archived_at": "2025-11-26 05:19:38"
+    },
+    {
+        "id": 69,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "asdasd",
+        "sent_at": "2025-11-26 00:12:12",
+        "is_seen": 0,
+        "archived_at": "2025-11-26 15:17:47"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": 34,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hi\r\n",
+        "sent_at": "2025-11-25 06:37:12",
+        "is_seen": 1,
+        "archived_at": "2025-11-25 15:39:14"
+    },
+    {
+        "id": 35,
+        "conversation_id": 41,
+        "sender_id": 122,
+        "sender_type": "employee",
+        "message": "hello\r\n",
+        "sent_at": "2025-11-25 06:37:41",
+        "is_seen": 0,
+        "archived_at": "2025-11-25 15:39:14"
+    },
+    {
+        "id": 36,
+        "conversation_id": 41,
+        "sender_id": 123,
+        "sender_type": "client",
+        "message": "hello kuys",
+        "sent_at": "2025-11-25 06:47:31",
+        "is_seen": 0,
+        "archived_at": "2025-11-25 15:48:36"
+    }
+]
